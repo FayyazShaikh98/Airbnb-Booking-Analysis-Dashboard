@@ -2,7 +2,7 @@
 
 # Overview
 This project showcases the power of data visualization and analysis using a comprehensive Power BI dashboard built around Airbnb's dataset. The primary focus is to uncover patterns in booking behaviors, accommodation preferences, and key performance metrics. By integrating advanced data visualization techniques, the dashboard offers an interactive platform for exploring and interpreting user interactions with the Airbnb platform, driving actionable insights and strategic decision-making.
-
+Download link 
 # Project Summary
 Airbnb has become a global leader in short-term rental bookings, offering a wide range of accommodations, from apartments to villas and more. In this project, I developed a Power BI dashboard to visually analyze Airbnb data, aiming to provide clear insights into booking patterns, accommodation preferences, and other significant metrics.
 
@@ -22,6 +22,13 @@ Insights and Recommendations
 8. Neighborhood Group Insights: Manhattan, Brooklyn, and Queens dominate in booking percentages, while Bronx and Staten Island see lower activity. Strategic marketing and availability enhancements in these lower-performing areas could help attract more customers.
 9. Room Availability: Increasing room availability in underrepresented areas such as Queens, Bronx, and Staten Island is crucial. Limited availability in these neighborhoods is likely leading to reduced bookings, and improving this could drive higher occupancy rates.
 10. Room Type Expansion: Expanding the availability of Entire/Home Apts and Private Rooms in high-demand areas like Staten Island, Brooklyn, and Queens could significantly boost revenue, as these room types are highly favored by customers.
+
+# Download the Power BI Template File (.pbit)
+To explore the interactive Airbnb dashboard and analyze the data yourself, you can download the Power BI template file (.pbit) from the link below. This file includes the complete dashboard setup, including all visualizations and data connections, allowing you to interact with and customize the analysis based on your needs.
+
+Download Airbnb Dashboard Template: https://drive.google.com/file/d/1WLPiDMySZ-JT0VbpsokFA1f9yxWzPV0E/view?usp=sharing
+
+Feel free to open the template in Power BI Desktop and explore the insights into booking patterns, room types, and neighborhood trends.
 
 # Acknowledgement
 This project was completed as part of my learning journey with AlmaBetter. I extend my gratitude to the AlmaBetter team for their guidance and support throughout this module.
